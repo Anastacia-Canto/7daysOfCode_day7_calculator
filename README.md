@@ -8,4 +8,5 @@ The goal of this project was develop a calculator using JavaScript. The original
 
 You can see the code and the final project on this link: https://codepen.io/anast-cia-canto/pen/xxYJMzM
 
+<img src="imagem.png">
 
